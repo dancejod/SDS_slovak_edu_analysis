@@ -1,1 +1,3 @@
-# SDS_slovak_edu_analysis
+This repository contains my final (and revised) essay for the course [*Spatial Data Science for Social Geography*](https://martinfleischmann.net/sds/) (make sure to check it out) from the Winter Semester 2023/2024. In this short essay, I attempt to briefly analyse the impact of political party choice and religious affiliation on the educational attainment of the Slovak populace.
+
+Also see the `preprocessing.ipynb` notebook if you wish to see the pain I had to endure while preprocessing the official data.

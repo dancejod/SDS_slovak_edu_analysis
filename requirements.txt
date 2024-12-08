@@ -1,0 +1,12 @@
+pandas
+geopandas
+pyogrio
+requests
+topojson
+mgwr
+esda
+statsmodels
+matplotlib
+seaborn
+libpysal
+splot
